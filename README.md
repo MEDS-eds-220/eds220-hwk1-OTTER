@@ -1,2 +1,19 @@
-# eds220-hwk-1
-Homework assignment 1 for EDS 220
+# EDS 220 - Assignment 1, tasks 2 and 3
+
+This respository contains materials for  the first assignment for the course EDS 220 - Working with Environmental Datasets. This course is part of the [UCSB Masters in Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science).
+
+## Assignment instructions
+The notebooks `hwk1-task2.ipynb` and `hwk1-task3.ipynb` have exercises for practicing fundamental tabular data exploration, wrangling, and visualization using `pandas`. Each notebook contains detailed instructions on how to complete the exercises. The `data` folder contains a single CSV file used in `hwk1-task3.ipynb`.
+
+Complete instructions for this assignment are in [the course website](https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/assignment1.html).
+
+## Submission instructions
+**All tasks for this assignment should be submitted via Gradescope.** Make sure you double check your submission and it satisfies all the items in this checklist:
+
+- [ ] Answers for tasks 2 and 3 must be submitted as .ipynb files (Jupyter Notebooks).
+- [ ] The notebooks you submit must have a link to your assignment GitHub repository in the specified place.
+- [ ] The notebooks you submit must have your solutions to the exercieses, they *should NOT be the blank template notebooks*.
+
+**Resubmissions after the due date due to not satisfying one of the checks above will be strictly held to the course's 50%-regrade resubmission policy (see syllabus).**
+
+If you have any questions, please reach out to the TA or instructor by 5 pm on the day before the assignment is due.
