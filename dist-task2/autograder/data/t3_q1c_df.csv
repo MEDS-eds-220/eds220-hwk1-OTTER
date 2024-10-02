@@ -1,0 +1,6 @@
+,time,latitude,longitude,depth,mag,id,place,type
+0,2014-01-31 23:53:37.000,60.252,-152.7081,90.2,1.1,ak11155107,"26km S of Redoubt Volcano, Alaska",earthquake
+1,2014-01-31 23:48:35.452,37.0703,-115.1309,0.0,1.33,nn00436847,"32km S of Alamo, Nevada",earthquake
+2,2014-01-31 23:47:24.000,64.6717,-149.2528,7.1,1.3,ak11151142,"12km NNW of North Nenana, Alaska",earthquake
+3,2014-01-31 23:30:54.000,63.1887,-148.9575,96.5,0.8,ak11151135,"22km S of Cantwell, Alaska",earthquake
+4,2014-01-31 23:30:52.210,32.6168333,-115.6925,10.59,1.34,ci37171541,"10km WNW of Progreso, Mexico",earthquake
