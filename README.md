@@ -4,4 +4,27 @@ This respository contains materials to set up the otter grader for the first ass
 
 ## File description
 
-TO DO.
+## Repository contents
+    └── data/                                          # contains all data needed to run the notebook
+            └── 3d_df.csv                              # data with similar filenames are used in otter grader checks, these csvs are the output from diferent excercises 
+                                                         and are used to compare with the students results
+    └── dist-task2/                                        
+        └── autograder                                              
+            └── data
+            └── tests
+                └── q3_a.py
+                └── q3_b.py
+                └── q3_c.py
+                └── q3_d.py
+                └── q6.py
+                └── q8.py
+                └── q9.py
+                └── q10.py
+                └── q11.py
+                └── q14.py
+                
+            └── hwk1-task2-corals-autograder_2024_10_03T09_54_28_028866.zip   
+            └── hwk1-task2-corals.ipynb
+
+    └── README.md                                    
+
