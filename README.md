@@ -39,10 +39,10 @@ This respository contains materials to set up the otter grader for the first ass
                 └── q11.py
                 └── q14.py
             └── hwk1-task2-corals.ipynb
-
-
-
-
-
+        
+    └── .gitignore
+    └── LICENSE
+    └── hwk1-task2-corals.ipynb
+    └── hwk1-task3-earthquakes.ipynb
     └── README.md                                    
 
