@@ -25,6 +25,24 @@ This respository contains materials to set up the otter grader for the first ass
                 
             └── hwk1-task2-corals-autograder_2024_10_03T09_54_28_028866.zip   
             └── hwk1-task2-corals.ipynb
+        └── student
+            └── data
+            └── tests
+                └── q3_a.py
+                └── q3_b.py
+                └── q3_c.py
+                └── q3_d.py
+                └── q6.py
+                └── q8.py
+                └── q9.py
+                └── q10.py
+                └── q11.py
+                └── q14.py
+            └── hwk1-task2-corals.ipynb
+
+
+
+
 
     └── README.md                                    
 
