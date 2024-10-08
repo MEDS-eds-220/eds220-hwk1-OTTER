@@ -2,7 +2,7 @@ OK_FORMAT = True
 
 test = {   'name': 'q8',
     'points': 2,
-    'suites': [   {   'cases': [{'code': ">>> assert pd.read_csv('data/q8_df.csv', index_col=0).equals(coral_cover)\n", 'hidden': True, 'locked': False}],
+    'suites': [   {   'cases': [{'code': ">>> assert pd.read_csv('data/t2_q8_df.csv', index_col=0).equals(coral_cover)\n", 'hidden': True, 'locked': False}],
                       'scored': True,
                       'setup': '',
                       'teardown': '',
