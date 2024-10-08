@@ -78,7 +78,8 @@ This respository contains materials to set up the otter grader for the first ass
                 └── q10.py                                 # .py test file for question 10
                 └── q11.py                                 # .py test file for question 11
                 └── q14.py                                 # .py test file for question 14
-            └── hwk1-task2-corals.ipynb                    # this is the notebook that should be distrubted to the students, all solutions are removed and all tests are      └── dist-task3/                                        
+            └── hwk1-task2-corals.ipynb                    # this is the notebook that should be distrubted to the students, all solutions are removed and all tests are                                                              hidden
+    └── dist-task3/                                        
         └── autograder/                                              
             └── data/                                      # contains all data needed to run the notebook, csvs that start with t2 or t3 are used in the otter tests 
                                                              to check if the student's solution matches the csv with the solution
